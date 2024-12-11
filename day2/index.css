@@ -1,0 +1,21 @@
+#mid-section{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navbar{
+    width: 100%;
+    background-color: beige;
+}
+
+#ads{
+    width: 100%;
+    background-color: cadetblue;
+}
+
+#footer{
+    width: 100%;
+    background-color: yellowgreen;
+}
+
