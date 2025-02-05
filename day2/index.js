@@ -1,9 +1,9 @@
 
 
 function Navbar(props){
-    // console.log(props)
+    console.log(props)
     return <>
-    {/* <h1 id="navbar">I am Navbar</h1> */}
+    <h1 id="navbar">I am Navbar {props.age}</h1>
     <List/>
     <Cart/>
     </>
