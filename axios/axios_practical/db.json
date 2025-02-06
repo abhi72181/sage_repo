@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "john@example.com",
+      "age": 24
+    },
+    {
+      "id": "2",
+      "name": "Abhishek",
+      "email": "Abhi@example.com",
+      "age": 26
+    },
+    {
+      "id": "3",
+      "name": "baba",
+      "email": "baba@example.com",
+      "age": 22
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "name": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.2,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "image": "https://th.bing.com/th/id/OIP.fS7drXelAzXScI8AZCpW0QHaKX?w=202&h=282&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "name": "kaho na pyar tha ,hai nahi",
+      "year": 1900,
+      "rating": 2,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "image": "https://th.bing.com/th/id/OIP.fS7drXelAzXScI8AZCpW0QHaKX?w=202&h=282&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "id": "2"
+    },
+    {
+      "id": "d4cf",
+      "name": "naga",
+      "year": 1994,
+      "rating": 9.2,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "image": "https://th.bing.com/th/id/OIP.fS7drXelAzXScI8AZCpW0QHaKX?w=202&h=282&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": "7c4d",
+      "name": "hero",
+      "year": 1994,
+      "rating": 9.2,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "image": "https://th.bing.com/th/id/OIP.fS7drXelAzXScI8AZCpW0QHaKX?w=202&h=282&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    }
+  ]
+}
